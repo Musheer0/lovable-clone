@@ -1,5 +1,5 @@
 
-# ❤️ Lovable Clone
+# ❤️ Lovable Clone(wip)
 
 A beautiful, blazing-fast clone of \[Lovable] — built with [Next.js 15](https://nextjs.org/) + App Router, TailwindCSS, and a lot of late-night debugging 💀
 
